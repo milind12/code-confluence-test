@@ -16,7 +16,7 @@ const config = {
   url: 'https://milind12.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/code-confluence-test/docs/',
+  baseUrl: '/code-confluence-test/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.

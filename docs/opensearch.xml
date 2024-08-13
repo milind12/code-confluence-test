@@ -4,8 +4,8 @@
   <ShortName>Code confluence</ShortName>
   <Description>Search Code confluence</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://milind12.github.io/code-confluence-test/docs/img/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://milind12.github.io/code-confluence-test/docs/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://milind12.github.io/code-confluence-test/docs/opensearch.xml" />
-  <moz:SearchForm>https://milind12.github.io/code-confluence-test/docs/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://milind12.github.io/code-confluence-test/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://milind12.github.io/code-confluence-test/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://milind12.github.io/code-confluence-test/opensearch.xml" />
+  <moz:SearchForm>https://milind12.github.io/code-confluence-test/</moz:SearchForm>
 </OpenSearchDescription>
